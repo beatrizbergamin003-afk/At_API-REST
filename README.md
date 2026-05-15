@@ -109,11 +109,22 @@ Esses códigos são importantes porque ajudam a entender o que aconteceu em cada
 | Código | Significado |
 |---|---|
 | 200 OK | Requisição realizada com sucesso |
+<img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/b390fc16-3db1-4032-b76d-4ffb7b3b6bcd" />
+
 | 201 Created | Novo dado criado corretamente |
+<img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/1f472df4-7efe-4417-addb-0791a5e628ea" />
+
 | 400 Bad Request | Requisição inválida ou incompleta |
+<img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/a7f69f62-d8d6-437f-8685-ce469d7fab5e" />
+
 | 401 Unauthorized | Usuário sem autorização |
+<img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/fcf62c6f-4320-4b3a-b519-a809f094ccf2" />
+
 | 404 Not Found | Rota ou recurso não encontrado |
+<img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/84d34244-3048-456c-b8a7-d11afadc4be8" />
+
 | 500 Internal Server Error | Erro interno no servidor |
+<img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/8b950982-034b-432c-a389-3f3a32fb06dc" />
 
 ---
 
