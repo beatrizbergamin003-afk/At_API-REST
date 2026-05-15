@@ -25,6 +25,8 @@ Hoje, muitos serviços da internet dependem diretamente de APIs. Aplicativos de 
 ---
 
 # 🌐 O que é REST?
+<img width="599" height="364" alt="image" src="https://github.com/user-attachments/assets/dd673112-0f5d-4c56-a736-c94575c52b12" />
+
 
 REST é uma sigla para *Representational State Transfer*. Esse termo define um conjunto de princípios usados para organizar a comunicação entre sistemas na internet. Em vez de criar regras totalmente diferentes para cada aplicação, o modelo REST propõe uma forma padronizada de troca de informações usando recursos da própria web, como URLs e métodos HTTP.
 
@@ -33,6 +35,8 @@ Uma maneira simples de entender o REST é imaginar uma biblioteca. Cada livro po
 ---
 
 ## O que é uma API REST?
+<img width="298" height="169" alt="image" src="https://github.com/user-attachments/assets/4d646e47-b1d3-4f43-bdb2-eb67786f00e8" />
+
 
 Uma API REST é uma API construída seguindo os princípios do REST. Ela permite que aplicações conversem entre si usando requisições HTTP, como GET, POST, PUT e DELETE. Cada uma dessas requisições representa uma ação diferente, como buscar informações, criar dados novos, atualizar registros ou remover conteúdos.
 
@@ -137,6 +141,8 @@ Além disso, eles ajudam bastante durante o desenvolvimento da API. Quando fazem
 ---
 
 # 📦 O que é JSON?
+<img width="512" height="203" alt="image" src="https://github.com/user-attachments/assets/f4bb117a-2781-4f4f-8442-05e30900508d" />
+
 
 JSON significa *JavaScript Object Notation*. Ele é um formato usado para organizar e trocar informações entre sistemas de forma simples. Em APIs, o JSON é muito utilizado porque consegue armazenar dados de maneira organizada e fácil de entender.
 
